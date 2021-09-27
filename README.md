@@ -1,1 +1,3 @@
 # Magisterka
+
+Projekt magisterski
